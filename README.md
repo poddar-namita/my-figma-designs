@@ -1,6 +1,6 @@
 # Figma Designs
 
-![Project Image](/images/movies.JPG)
+![Project Image](/images/movie-card.JPG)
 
 ![Project Image](/images/persona.JPG)
 
